@@ -1,0 +1,14 @@
+{
+
+    "Images" : {
+        
+        "Target Image" : "/Users/gurayturker/Desktop/Data/Buisness/Travelmean/hotel photos/1030/oteldış3.jpg",
+        
+        "Other Images" : ["/Users/gurayturker/Desktop/Data/Buisness/Travelmean/hotel photos/1030/oteldış1.jpg","/Users/gurayturker/Desktop/Data/Buisness/Travelmean/hotel photos/1030/otelic3.jpg","/Users/gurayturker/Desktop/Data/Buisness/Travelmean/hotel photos/1030/otelic1.jpg"],
+        
+        
+        "ShowAll":false
+        
+    }
+    
+}
